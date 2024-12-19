@@ -44,3 +44,8 @@ streamlit run app.py
 * The provided CSS is basic and can be further customized for a more refined user experience.
 
 I hope this Caesar Cipher App provides you with a valuable and informative tool for basic encryption and decryption tasks.
+
+## License
+
+This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
+
