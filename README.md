@@ -1,7 +1,3 @@
-pip install streamlit | 
-streamlit run app.py
-
-
 # Caesar Cipher App
 
 This is a Streamlit application that implements the Caesar Cipher algorithm for encryption and decryption.
@@ -25,9 +21,22 @@ This app provides a user-friendly interface for:
 
 ## Running the App
 
-1. **Prerequisites:** Ensure you have Python (version 3.6 or later) and Streamlit installed. You can install them using `pip install python streamlit`.
-2. **Clone or Download the Repository:** Access the code for this app from your preferred source control system or download the files directly.
-3. **Run the application:** Navigate to the directory containing the Python script (`main.py`) and execute it using `python main.py`.
+1. **Prerequisites:** 
+Ensure you have Python (version 3.6 or later) and Streamlit installed. 
+```bash
+pip install python streamlit
+```
+2. **Clone or Download the Repository:** 
+Access the code for this app from your preferred source control system or download the files directly.
+```bash
+git clone https://github.com/Jain131102/Ceaser-Cipher-Algorithm.git
+``` 
+3. **Run the application:** 
+Navigate to the directory containing the Python script nd execute it .
+```bash
+cd Ceaser-Cipher-Algorithm
+streamlit run app.py
+```
 
 ## Additional Notes
 
